@@ -1,4 +1,4 @@
-# ROB313-MachineLearning-Projects
+# rob313-machinelearning-projects
 Contains implementations for some of the fundamental machine learning techniques.
 
 ### 5 main projects
